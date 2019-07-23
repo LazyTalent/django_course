@@ -5,7 +5,7 @@ from time import sleep
 
 
 class IrishAlcholicBot:
-    TOKEN = "840417277:AAHifTr8MUHpmnQftL4eSqJA6exdrSnF-N0"
+    TOKEN = "I'm awesome"
     URL = "https://api.telegram.org/bot" + TOKEN + "/"
     START_MESSAGE = r"Do you wanna speak with cattle IrishAlcholic or with polite one? (Print 'cattle' or whatever)"
     EXPLANATION = r"Print '/currency_name' to get an official rate. For example '/USD'. Print 'stop it[,please]' to stop it"
